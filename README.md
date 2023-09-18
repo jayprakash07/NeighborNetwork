@@ -12,4 +12,4 @@ Server-Side Code for Video Chat App: https://github.com/jayprakash07/NeighborNet
 
 Devpost: https://devpost.com/software/neighbor-network
 
-Demo Link: https://bananahacks2021v3.netlify.app/
+Demo Link: https://neighbournetworkv2.netlify.app/
