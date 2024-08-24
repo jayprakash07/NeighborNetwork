@@ -13,3 +13,5 @@ Server-Side Code for Video Chat App: https://github.com/jayprakash07/NeighborNet
 Devpost: https://devpost.com/software/neighbor-network
 
 Demo Link: https://neighbournetworkv2.netlify.app/
+
+Copyright © 2024 Neighbor Network. All rights reserved.
