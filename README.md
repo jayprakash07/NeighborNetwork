@@ -14,4 +14,4 @@ Devpost: https://devpost.com/software/neighbor-network
 
 Demo Link: https://neighbournetworkv2.netlify.app/
 
-Copyright © 2024 Neighbor Network. All rights reserved.
+Copyright © 2024 Neighbor Network.
